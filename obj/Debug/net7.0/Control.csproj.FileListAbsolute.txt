@@ -1,0 +1,15 @@
+/home/nikolai/Документы/Control/bin/Debug/net7.0/Control
+/home/nikolai/Документы/Control/bin/Debug/net7.0/Control.deps.json
+/home/nikolai/Документы/Control/bin/Debug/net7.0/Control.runtimeconfig.json
+/home/nikolai/Документы/Control/bin/Debug/net7.0/Control.dll
+/home/nikolai/Документы/Control/bin/Debug/net7.0/Control.pdb
+/home/nikolai/Документы/Control/obj/Debug/net7.0/Control.csproj.AssemblyReference.cache
+/home/nikolai/Документы/Control/obj/Debug/net7.0/Control.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikolai/Документы/Control/obj/Debug/net7.0/Control.AssemblyInfoInputs.cache
+/home/nikolai/Документы/Control/obj/Debug/net7.0/Control.AssemblyInfo.cs
+/home/nikolai/Документы/Control/obj/Debug/net7.0/Control.csproj.CoreCompileInputs.cache
+/home/nikolai/Документы/Control/obj/Debug/net7.0/Control.dll
+/home/nikolai/Документы/Control/obj/Debug/net7.0/refint/Control.dll
+/home/nikolai/Документы/Control/obj/Debug/net7.0/Control.pdb
+/home/nikolai/Документы/Control/obj/Debug/net7.0/Control.genruntimeconfig.cache
+/home/nikolai/Документы/Control/obj/Debug/net7.0/ref/Control.dll
